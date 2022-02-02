@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AspNetProject_JashimDBModelStoreContainer" CdmEntityContainer="myDBEntities">
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="AspNetProject_JashimDBModel.Book">
+        <MappingFragment StoreEntitySet="Books">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Books_Title" ColumnName="Books_Title" />
+          <ScalarProperty Name="Books_Image" ColumnName="Books_Image" />
+          <ScalarProperty Name="Books_Pdf" ColumnName="Books_Pdf" />
+          <ScalarProperty Name="Books_Video" ColumnName="Books_Video" />
+          <ScalarProperty Name="Books_Author_Name" ColumnName="Books_Author_Name" />
+          <ScalarProperty Name="Books_Isbn" ColumnName="Books_Isbn" />
+          <ScalarProperty Name="available_Quantity" ColumnName="available_Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Issue_Books">
+      <EntityTypeMapping TypeName="AspNetProject_JashimDBModel.Issue_Books">
+        <MappingFragment StoreEntitySet="Issue_Books">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Student_Enrollment_No" ColumnName="Student_Enrollment_No" />
+          <ScalarProperty Name="Books_Isbn" ColumnName="Books_Isbn" />
+          <ScalarProperty Name="Books_Issue_Date" ColumnName="Books_Issue_Date" />
+          <ScalarProperty Name="Books_Approx_Return_Date" ColumnName="Books_Approx_Return_Date" />
+          <ScalarProperty Name="Student_UserName" ColumnName="Student_UserName" />
+          <ScalarProperty Name="Is_Book_Returned" ColumnName="Is_Book_Returned" />
+          <ScalarProperty Name="Book_Returned_Date" ColumnName="Book_Returned_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="AspNetProject_JashimDBModel.Course">
+        <MappingFragment StoreEntitySet="Course">
+          <ScalarProperty Name="CourseDuration" ColumnName="CourseDuration" />
+          <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+          <ScalarProperty Name="CourseId" ColumnName="CourseId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

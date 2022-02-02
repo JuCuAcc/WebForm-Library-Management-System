@@ -1,0 +1,384 @@
+E:\20211005\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll.config
+E:\20211005\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll
+E:\20211005\AspNetProject_Jashim\bin\AspNetProject_Jashim.pdb
+E:\20211005\AspNetProject_Jashim\bin\roslyn\csc.exe
+E:\20211005\AspNetProject_Jashim\bin\roslyn\csc.exe.config
+E:\20211005\AspNetProject_Jashim\bin\roslyn\csc.rsp
+E:\20211005\AspNetProject_Jashim\bin\roslyn\csi.exe
+E:\20211005\AspNetProject_Jashim\bin\roslyn\csi.exe.config
+E:\20211005\AspNetProject_Jashim\bin\roslyn\csi.rsp
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.Managed.Core.targets
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\20211005\AspNetProject_Jashim\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.AppContext.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Collections.Immutable.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Console.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Globalization.Calendars.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Net.Http.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Net.Sockets.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Reflection.Metadata.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.ValueTuple.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Xml.XmlDocument.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\20211005\AspNetProject_Jashim\bin\roslyn\vbc.exe
+E:\20211005\AspNetProject_Jashim\bin\roslyn\vbc.exe.config
+E:\20211005\AspNetProject_Jashim\bin\roslyn\vbc.rsp
+E:\20211005\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe
+E:\20211005\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe.config
+E:\20211005\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CoreCompileInputs.cache
+E:\20211005\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CopyComplete
+E:\20211005\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.dll
+E:\20211005\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.pdb
+E:\20211005\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.AssemblyReference.cache
+E:\20211005\20211003\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll.config
+E:\20211005\20211003\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\AspNetProject_Jashim.pdb
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\csc.exe
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\csc.exe.config
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\csc.rsp
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\csi.exe
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\csi.exe.config
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\csi.rsp
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.Managed.Core.targets
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.AppContext.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Collections.Immutable.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Console.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Globalization.Calendars.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Net.Http.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Net.Sockets.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Reflection.Metadata.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.ValueTuple.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Xml.XmlDocument.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\vbc.exe
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\vbc.exe.config
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\vbc.rsp
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe
+E:\20211005\20211003\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe.config
+E:\20211005\20211003\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CoreCompileInputs.cache
+E:\20211005\20211003\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CopyComplete
+E:\20211005\20211003\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.dll
+E:\20211005\20211003\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.pdb
+E:\20211005\20211003\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.AssemblyReference.cache
+E:\20211004\20211003\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll.config
+E:\20211004\20211003\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\AspNetProject_Jashim.pdb
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\csc.exe
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\csc.exe.config
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\csc.rsp
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\csi.exe
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\csi.exe.config
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\csi.rsp
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.Managed.Core.targets
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.AppContext.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Collections.Immutable.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Console.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Globalization.Calendars.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Net.Http.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Net.Sockets.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Reflection.Metadata.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.ValueTuple.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Xml.XmlDocument.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\vbc.exe
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\vbc.exe.config
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\vbc.rsp
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe
+E:\20211004\20211003\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe.config
+E:\20211004\20211003\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CoreCompileInputs.cache
+E:\20211004\20211003\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CopyComplete
+E:\20211004\20211003\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.dll
+E:\20211004\20211003\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.pdb
+E:\20211005\1261450\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll.config
+E:\20211005\1261450\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\AspNetProject_Jashim.pdb
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\csc.exe
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\csc.exe.config
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\csc.rsp
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\csi.exe
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\csi.exe.config
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\csi.rsp
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.Managed.Core.targets
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.AppContext.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Collections.Immutable.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Console.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Globalization.Calendars.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Net.Http.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Net.Sockets.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Reflection.Metadata.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.ValueTuple.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Xml.XmlDocument.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\vbc.exe
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\vbc.exe.config
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\vbc.rsp
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe
+E:\20211005\1261450\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe.config
+E:\20211005\1261450\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CoreCompileInputs.cache
+E:\20211005\1261450\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CopyComplete
+E:\20211005\1261450\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.dll
+E:\20211005\1261450\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.pdb
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll.config
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\AspNetProject_Jashim.pdb
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CopyComplete
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.pdb
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\stdole.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\bin\CrystalDecisions.Web.dll
+C:\Users\Admin\Desktop\1261450\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.AssemblyReference.cache
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll.config
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\AspNetProject_Jashim.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\AspNetProject_Jashim.pdb
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\csc.exe
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\csc.exe.config
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\csc.rsp
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\csi.exe
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\csi.exe.config
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\csi.rsp
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.AppContext.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Console.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Globalization.Calendars.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Net.Http.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Net.Sockets.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.ValueTuple.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\vbc.exe
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\vbc.exe.config
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\vbc.rsp
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\AxShockwaveFlashObjects.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportSource.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.Shared.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.Web.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.Windows.Forms.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\EntityFramework.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\ShockwaveFlashObjects.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\stdole.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\bin\EntityFramework.xml
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.AssemblyReference.cache
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CoreCompileInputs.cache
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.csproj.CopyComplete
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.dll
+E:\Projects\AspNetProjectFinal Presented Project\AspNetProject_Jashim\obj\Debug\AspNetProject_Jashim.pdb

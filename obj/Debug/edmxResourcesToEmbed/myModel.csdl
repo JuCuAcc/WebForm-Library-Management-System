@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AspNetProject_JashimDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Books_Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Books_Image" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Books_Pdf" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Books_Video" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Books_Author_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Books_Isbn" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="available_Quantity" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Issue_Books">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Student_Enrollment_No" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Books_Isbn" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Books_Issue_Date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Books_Approx_Return_Date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Student_UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Is_Book_Returned" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Book_Returned_Date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="myDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Books" EntityType="Self.Book" />
+    <EntitySet Name="Issue_Books" EntityType="Self.Issue_Books" />
+    <EntitySet Name="Courses" EntityType="AspNetProject_JashimDBModel.Course" />
+  </EntityContainer>
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="CourseId" />
+    </Key>
+    <Property Name="CourseId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CourseName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CourseDuration" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

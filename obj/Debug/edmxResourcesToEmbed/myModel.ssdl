@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AspNetProject_JashimDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Books">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Books_Title" Type="varchar" MaxLength="50" />
+    <Property Name="Books_Image" Type="varchar(max)" />
+    <Property Name="Books_Pdf" Type="varchar(max)" />
+    <Property Name="Books_Video" Type="varchar(max)" />
+    <Property Name="Books_Author_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Books_Isbn" Type="varchar" MaxLength="50" />
+    <Property Name="available_Quantity" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'C:\USERS\ADMIN\DESKTOP\1261450\ASPNETPROJECT_JASHIM\APP_DATA\ASPNETPROJECT_JASHIMDB.MDF.dbo.Course' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="CourseId" />
+    </Key>
+    <Property Name="CourseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CourseName" Type="varchar" MaxLength="50" />
+    <Property Name="CourseDuration" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Issue_Books">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Student_Enrollment_No" Type="varchar" MaxLength="50" />
+    <Property Name="Books_Isbn" Type="varchar" MaxLength="50" />
+    <Property Name="Books_Issue_Date" Type="varchar" MaxLength="50" />
+    <Property Name="Books_Approx_Return_Date" Type="varchar" MaxLength="50" />
+    <Property Name="Student_UserName" Type="varchar" MaxLength="50" />
+    <Property Name="Is_Book_Returned" Type="varchar" MaxLength="50" />
+    <Property Name="Book_Returned_Date" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="AspNetProject_JashimDBModelStoreContainer">
+    <EntitySet Name="Books" EntityType="Self.Books" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Issue_Books" EntityType="Self.Issue_Books" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Course" EntityType="Self.Course" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[Course].[CourseId] AS [CourseId], 
+[Course].[CourseName] AS [CourseName], 
+[Course].[CourseDuration] AS [CourseDuration]
+FROM [dbo].[Course] AS [Course]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

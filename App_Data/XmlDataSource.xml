@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type= "text/xsl" href= "XmlDataSource.xsl" ?>
+<books>
+	<book isbn="10-90-887-909" available="yes">
+		<name>SQL ins and outs</name>
+		<author>Clerk</author>
+		<listprice>24.99</listprice>
+		<price>10.55</price>
+		<edition>4</edition>
+		<publisher>QUE</publisher>
+	</book>
+	<book isbn="10-90-3467-819" available="no">
+		<name>Programming practice</name>
+		<author>Dave Hart</author>
+		<listprice>20.99</listprice>
+		<price>8.55</price>
+		<edition>4</edition>
+		<publisher>Prentice Hall</publisher>
+	</book>
+	<book isbn="10-90-3467-819" available="yes">
+		<name>OOSAD using UML</name>
+		<author>Bennet</author>
+		<listprice>30.99</listprice>
+		<price>20.55</price>
+		<edition>3</edition>
+		<publisher>Prentice Hall</publisher>
+	</book>
+	<book isbn="10-90-3467-819" available="yes">
+		<name>XML</name>
+		<author>Bennet</author>
+		<listprice>24.99</listprice>
+		<price>17.55</price>
+		<edition>2</edition>
+		<publisher>Prentice Hall</publisher>
+	</book>
+	<book isbn="10-90-3467-819" available="no">
+		<name>HTML</name>
+		<author>Bennet</author>
+		<listprice>24.99</listprice>
+		<price>17.55</price>
+		<edition>4</edition>
+		<publisher>Prentice Hall</publisher>
+	</book>
+</books>

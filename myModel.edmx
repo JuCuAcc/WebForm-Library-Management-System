@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="AspNetProject_JashimDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Books">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Books_Title" Type="varchar" MaxLength="50" />
+          <Property Name="Books_Image" Type="varchar(max)" />
+          <Property Name="Books_Pdf" Type="varchar(max)" />
+          <Property Name="Books_Video" Type="varchar(max)" />
+          <Property Name="Books_Author_Name" Type="varchar" MaxLength="50" />
+          <Property Name="Books_Isbn" Type="varchar" MaxLength="50" />
+          <Property Name="available_Quantity" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'C:\USERS\ADMIN\DESKTOP\1261450\ASPNETPROJECT_JASHIM\APP_DATA\ASPNETPROJECT_JASHIMDB.MDF.dbo.Course' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="Course">
+          <Key>
+            <PropertyRef Name="CourseId" />
+          </Key>
+          <Property Name="CourseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CourseName" Type="varchar" MaxLength="50" />
+          <Property Name="CourseDuration" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Issue_Books">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Student_Enrollment_No" Type="varchar" MaxLength="50" />
+          <Property Name="Books_Isbn" Type="varchar" MaxLength="50" />
+          <Property Name="Books_Issue_Date" Type="varchar" MaxLength="50" />
+          <Property Name="Books_Approx_Return_Date" Type="varchar" MaxLength="50" />
+          <Property Name="Student_UserName" Type="varchar" MaxLength="50" />
+          <Property Name="Is_Book_Returned" Type="varchar" MaxLength="50" />
+          <Property Name="Book_Returned_Date" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="AspNetProject_JashimDBModelStoreContainer">
+          <EntitySet Name="Books" EntityType="Self.Books" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Issue_Books" EntityType="Self.Issue_Books" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Course" EntityType="Self.Course" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+[Course].[CourseId] AS [CourseId], 
+[Course].[CourseName] AS [CourseName], 
+[Course].[CourseDuration] AS [CourseDuration]
+FROM [dbo].[Course] AS [Course]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AspNetProject_JashimDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Books_Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Books_Image" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="Books_Pdf" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="Books_Video" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="Books_Author_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Books_Isbn" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="available_Quantity" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Issue_Books">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Student_Enrollment_No" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Books_Isbn" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Books_Issue_Date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Books_Approx_Return_Date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Student_UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Is_Book_Returned" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Book_Returned_Date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="myDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Books" EntityType="Self.Book" />
+          <EntitySet Name="Issue_Books" EntityType="Self.Issue_Books" />
+          <EntitySet Name="Courses" EntityType="AspNetProject_JashimDBModel.Course" />
+        </EntityContainer>
+        <EntityType Name="Course">
+          <Key>
+            <PropertyRef Name="CourseId" />
+          </Key>
+          <Property Name="CourseId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CourseName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CourseDuration" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="AspNetProject_JashimDBModelStoreContainer" CdmEntityContainer="myDBEntities">
+          <EntitySetMapping Name="Books">
+            <EntityTypeMapping TypeName="AspNetProject_JashimDBModel.Book">
+              <MappingFragment StoreEntitySet="Books">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Books_Title" ColumnName="Books_Title" />
+                <ScalarProperty Name="Books_Image" ColumnName="Books_Image" />
+                <ScalarProperty Name="Books_Pdf" ColumnName="Books_Pdf" />
+                <ScalarProperty Name="Books_Video" ColumnName="Books_Video" />
+                <ScalarProperty Name="Books_Author_Name" ColumnName="Books_Author_Name" />
+                <ScalarProperty Name="Books_Isbn" ColumnName="Books_Isbn" />
+                <ScalarProperty Name="available_Quantity" ColumnName="available_Quantity" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Issue_Books">
+            <EntityTypeMapping TypeName="AspNetProject_JashimDBModel.Issue_Books">
+              <MappingFragment StoreEntitySet="Issue_Books">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Student_Enrollment_No" ColumnName="Student_Enrollment_No" />
+                <ScalarProperty Name="Books_Isbn" ColumnName="Books_Isbn" />
+                <ScalarProperty Name="Books_Issue_Date" ColumnName="Books_Issue_Date" />
+                <ScalarProperty Name="Books_Approx_Return_Date" ColumnName="Books_Approx_Return_Date" />
+                <ScalarProperty Name="Student_UserName" ColumnName="Student_UserName" />
+                <ScalarProperty Name="Is_Book_Returned" ColumnName="Is_Book_Returned" />
+                <ScalarProperty Name="Book_Returned_Date" ColumnName="Book_Returned_Date" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Courses">
+            <EntityTypeMapping TypeName="AspNetProject_JashimDBModel.Course">
+              <MappingFragment StoreEntitySet="Course">
+                <ScalarProperty Name="CourseDuration" ColumnName="CourseDuration" />
+                <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+                <ScalarProperty Name="CourseId" ColumnName="CourseId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
